@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{90fb7873-0c3e-43c9-9674-51ba04b50723}</ProjectGuid>
+    <ProjectGuid>{d9285388-dc23-4527-9907-489e5c95c9f6}</ProjectGuid>
     <RootNamespace>My423Test</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
