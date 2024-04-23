@@ -99,10 +99,6 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-*.sln
-*.vcxproj
-*.filters
-
 
 # Chutzpah Test files
 _Chutzpah*
@@ -367,3 +363,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+*.cpp
+/3_27lq/3_27lq/3_27lq.cpp
+/3_27lq/3_27lq/bite.cpp
+/3_27lq/3_27lq/sample.cpp
+/4_7lq/4_7lq/4_7lq.cpp
+/4_8lq
+/4_10lq/4_10lq.cpp
