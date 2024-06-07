@@ -50,5 +50,5 @@
 struct LNode {
 	int data;
 	struct LNode* next;
-};
+}LNode,*LinkList;
 struct LNode* p = (struct LNode*)malloc(sizeof(struct LNode));
